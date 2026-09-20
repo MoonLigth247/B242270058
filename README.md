@@ -69,16 +69,3 @@ max 425 ms болж өссөн нь сүүлний latency нэмэгдэж ба
 
 
 \## Screenshots
-
-\- screenshots/k6-version.png
-
-\- screenshots/run-05vu.png
-
-\- screenshots/run-30vu.png
-
-\- screenshots/run-100vu.png
-
-\- screenshots/threshold-pass.png
-
-\- screenshots/threshold-fail.png
-
