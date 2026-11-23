@@ -58,7 +58,7 @@ k6 v2.4.0
 
 ### Stages Тестийн Дэлгэцийн Зураг
 
-![Stages Test Result](results/stages-result.png)
+![Stages Test Result](results/run-stages.png)
 
 ---
 
