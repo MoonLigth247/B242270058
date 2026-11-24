@@ -38,17 +38,15 @@ Baseline p95 = 227.67 ms байсан тул SLO-г 227.67 × 1.5 = 341.5 ms
 
 
 
-<<<<<<< HEAD
 # Threshold үр дүн (Grafana k6 v2.2.0, Windows)
 PASS: results/threshold-pass.txt — p(95) = 228.2 ms (тогтоосон босгыг хангаж PASS гарсан).
-=======
-<<<<<<< HEAD
+
+
 ![Stages Test Result](screenshots/Test.run.png)
-=======
+
 # Threshold үр дүн (Grafana k6 v2.2.0, Windows)
 PASS: results/threshold-pass.txt — p(95) = 228.2 ms (тогтоосон босгыг хангаж PASS гарсан).
->>>>>>> ad62978 (readme zasvar)
->>>>>>> cc16d72 (readme zasvar)
+
 
 FAIL: results/threshold-fail.txt — p(95) = 228.46 ms (хатуу тохируулсан босгоос давж FAIL гарсан).
 
